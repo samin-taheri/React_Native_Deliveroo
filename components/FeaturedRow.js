@@ -2,13 +2,13 @@ import { View, Text, ScrollView } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import RestaurantCard from './RestaurantCard';
 import { Feather } from "@expo/vector-icons";
-import sanityClient from '../sanity';
+import createClient from '../sanity';
 
 const FeaturedRow = ({ title, description, id }) => {
     const [restaurants, setResturants] = useState([]);
 
     useEffect(() => {
-        sanityClient.fetch(`
+        createClient.fetch(`
         *[_type == "featured" && _id == $id ] {
             ...,
            restaurants[]->{

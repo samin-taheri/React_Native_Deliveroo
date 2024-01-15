@@ -3,6 +3,7 @@ import React, { useRef, useEffect } from 'react'
 import { StarIcon } from "react-native-heroicons/solid";
 import { Feather } from "@expo/vector-icons";
 import { urlFor } from '../sanity';
+import { useNavigation } from '@react-navigation/native';
 
 const RestaurantCard = ({ id, imgUrl, title, rating, genre, address, short_description, dishes, long, lat }) => {
     const fadeAnim = useRef(new Animated.Value(0)).current;
@@ -22,10 +23,11 @@ const RestaurantCard = ({ id, imgUrl, title, rating, genre, address, short_descr
             }),
         ]).start();
     }, [fadeAnim, slideAnim]);
+    const navigation = useNavigation();
 
     return (
         <Animated.View style={{ opacity: fadeAnim, transform: [{ translateY: slideAnim }] }}>
-            <TouchableOpacity className="bg-white mr-3 shadow-sm rounded-md p-2">
+            <TouchableOpacity onPress={() => { navigation.navigate('Restaurant', { id, imgUrl, title, rating, genre, address, short_description, dishes, long, lat }) }} className="bg-white mr-3 shadow-sm rounded-md p-2">
                 <Image source={{ uri: urlFor(imgUrl).url() }} className="h-36 w-64 rounded-md" />
                 <View className="px-1 pb-1">
                     <Text className="font-bold text-lg pt-2">{title}</Text>
