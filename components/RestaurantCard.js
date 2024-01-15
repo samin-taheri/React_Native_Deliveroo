@@ -2,6 +2,7 @@ import { View, Image, TouchableOpacity, Text, Animated } from 'react-native'
 import React, { useRef, useEffect } from 'react'
 import { StarIcon } from "react-native-heroicons/solid";
 import { Feather } from "@expo/vector-icons";
+import { urlFor } from '../sanity';
 
 const RestaurantCard = ({ id, imgUrl, title, rating, genre, address, short_description, dishes, long, lat }) => {
     const fadeAnim = useRef(new Animated.Value(0)).current;
@@ -25,7 +26,7 @@ const RestaurantCard = ({ id, imgUrl, title, rating, genre, address, short_descr
     return (
         <Animated.View style={{ opacity: fadeAnim, transform: [{ translateY: slideAnim }] }}>
             <TouchableOpacity className="bg-white mr-3 shadow-sm rounded-md p-2">
-                <Image source={{ uri: imgUrl }} className="h-36 w-64 rounded-md" />
+                <Image source={{ uri: urlFor(imgUrl).url() }} className="h-36 w-64 rounded-md" />
                 <View className="px-1 pb-1">
                     <Text className="font-bold text-lg pt-2">{title}</Text>
                     <View className="flex-row items-center space-x-1">
