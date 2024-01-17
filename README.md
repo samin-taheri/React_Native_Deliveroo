@@ -28,3 +28,4 @@
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 21 11](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/ea4bf6d9-dd1e-4e20-b72c-691dadc1bd21)
 
+
