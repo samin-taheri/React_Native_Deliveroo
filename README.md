@@ -7,9 +7,10 @@
 This is a cross-platform Deliveroo app for ordering food that allows users to add items to their order, which is then updated in the basket where calculations are performed and is completely adjustable. After payment, the user can track their order on the map and call the biker as needed.  
 
 
-<img src="https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" alt="Simulator Screenshot" width="500">
-
-
+<p float="left">
+  <img src="https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="500" />
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="500" />
+</p>
 
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 19 58](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446)
