@@ -4,7 +4,7 @@
 - Tailwinds CSS using Babel, making the UI fully animated, intuitive, and fast.
 - With Map integration to keep track of the order.
 
-This is a cross-platform Deliveroo app for ordering food that allows users to add items to their order, which is then updated in the basket where calculations are performed and is completely adjustable. After payment, the user can track their order on the map and call the biker as needed.  
+This is a cross-platform Deliveroo app for ordering food that allows users to add orders to their basket, where calculations are performed. After payment, the user can track their order on the map and contact the biker as needed.  
 
 
 <table align="center">
