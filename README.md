@@ -7,28 +7,26 @@
 This is a cross-platform Deliveroo app for ordering food that allows users to add items to their order, which is then updated in the basket where calculations are performed and is completely adjustable. After payment, the user can track their order on the map and call the biker as needed.  
 
 
-<p float="left">
+
   <img src="https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="400" />
+
+  
   <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/3eba6a6f-f6fd-4efd-8154-0326c65be8ea.png" width="400" />
-</p>
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 20 05](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/3eba6a6f-f6fd-4efd-8154-0326c65be8ea)
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/d15d1749-15a4-4b86-82bf-1df56ca7620b.png" width="400" />
 
 
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 20 56](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/d15d1749-15a4-4b86-82bf-1df56ca7620b)
-
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 12 40 44](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/1e5ed15d-9902-4aa7-a6f5-afe3e905ce4e)
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/1e5ed15d-9902-4aa7-a6f5-afe3e905ce4e.png" width="400" />
 
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 21 05](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/76504b20-154f-456f-ac15-ad1a99739fa9)
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/76504b20-154f-456f-ac15-ad1a99739fa9.png" width="400" />
 
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 21 11](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/ea4bf6d9-dd1e-4e20-b72c-691dadc1bd21)
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/ea4bf6d9-dd1e-4e20-b72c-691dadc1bd21.png" width="400" />
+
+
 
 
