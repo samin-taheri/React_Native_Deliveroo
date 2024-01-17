@@ -1,6 +1,6 @@
 import { View, Image, TouchableOpacity, Text, Animated } from 'react-native'
 import React, { useRef, useEffect } from 'react'
-import { StarIcon } from "react-native-heroicons/solid";
+import { StarIcon } from "react-native-heroicons/outline";
 import { Feather } from "@expo/vector-icons";
 import { urlFor } from '../sanity';
 import { useNavigation } from '@react-navigation/native';
@@ -32,13 +32,13 @@ const RestaurantCard = ({ id, imgUrl, title, rating, genre, address, short_descr
                 <View className="px-1 pb-1">
                     <Text className="font-bold text-lg pt-2">{title}</Text>
                     <View className="flex-row items-center space-x-1">
-                        <StarIcon size={22} color="green" opacity={0.5} />
+                        <StarIcon size={20} color="#fe3448" />
                         <Text className="text-gray-500 text-xs">
-                            <Text className="text-green-700">{rating}</Text> . {genre}
+                            <Text className="text-[#fe3448]">{rating}</Text> . {genre}
                         </Text>
                     </View>
                     <View className="flex-row items-center space-x-1 pl-0.5 pt-0.5">
-                        <Feather name="map-pin" size={20} color="green" opacity={0.5} />
+                        <Feather name="map-pin" size={16} color="#fe3448" />
                         <Text className="text-xs text-gray-500">Nearby . {address}</Text>
                     </View>
                 </View>
