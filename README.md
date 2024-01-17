@@ -8,13 +8,9 @@ This is a cross-platform Deliveroo app for ordering food that allows users to ad
 
 
 <p float="left">
-  <img src="https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="300" />
-  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="300" />
+  <img src="https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446.png" width="400" />
+  <img src="[https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/3eba6a6f-f6fd-4efd-8154-0326c65be8ea.png" width="400" />
 </p>
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 19 58](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446)
-
 
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 20 05](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/3eba6a6f-f6fd-4efd-8154-0326c65be8ea)
