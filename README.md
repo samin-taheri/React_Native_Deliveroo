@@ -4,7 +4,14 @@
 - Tailwinds CSS using Babel, making the UI fully animated, intuitive, and fast.
 - With Map integration to keep track of the order.
 
-### This is a cross-platform Deliveroo app for ordering food that allows users to add items to their order, which is then updated in the basket where calculations are performed and is completely adjustable. After payment, the user can track their order on the map and call the biker as needed.  ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 19 58](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/fade6909-c09f-4111-a7e9-9ce92e150619)
+This is a cross-platform Deliveroo app for ordering food that allows users to add items to their order, which is then updated in the basket where calculations are performed and is completely adjustable. After payment, the user can track their order on the map and call the biker as needed.  
+
+
+
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 19 58](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/fade6909-c09f-4111-a7e9-9ce92e150619)
+
+
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 13 19 58](https://github.com/samin-taheri/React_Native_Deliveroo_Redux_Sanity.io/assets/58706708/a691b728-1f81-4dc1-aee4-eba701d73446)
 
